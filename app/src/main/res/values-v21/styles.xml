@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:windowBackground">@color/grey_300</item>
+        <item name="android:colorPrimary">@color/teal_500</item>
+        <item name="android:colorAccent">@color/teal_500</item>
+        <item name="android:colorPrimaryDark">@color/teal_800</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>
