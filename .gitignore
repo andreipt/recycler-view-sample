@@ -3,4 +3,11 @@
 /.idea/workspace.xml
 .DS_Store
 /build
+
+# Intellij project files
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea
+
 *.iml
